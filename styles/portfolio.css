@@ -159,8 +159,9 @@ nav li a{
             margin: 30px 5px;
         }
         /*button style*/
-       .btn-left{
-        align-items: center;
+       .resume-download-top{
+        margin-top: 50px;
+        text-align: center;
        }
           
         
